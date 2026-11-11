@@ -1,0 +1,13 @@
+# compiled binaries
+*/cab
+*/bank
+*/payroll
+*.o
+*.out
+# runtime data files
+*/users.txt
+*/trips.txt
+*/accounts.txt
+*/transactions.txt
+*/employees.txt
+.DS_Store
