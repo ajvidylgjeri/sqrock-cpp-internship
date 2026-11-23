@@ -1,0 +1,2 @@
+Programming is the art of solving problems. Good programming needs data structures and algorithms.
+File handling is important in programming.

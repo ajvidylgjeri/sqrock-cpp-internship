@@ -1,0 +1,2 @@
+Data structures such as vector, map and set are used with algorithms. Data structures organize data.
+Studying data structures is key for interviews.

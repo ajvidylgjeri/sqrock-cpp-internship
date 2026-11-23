@@ -1,0 +1,47 @@
+Loaded 4 document(s).
+  [!] Document is empty: docs/empty.txt
+
+===== SEARCH RESULTS =====
+Query: C++ programming
+Rank 1 -> cpp_basics.txt
+   Keyword Matches: 6
+   Relevance Score: 100%
+Rank 2 -> programming.txt
+   Keyword Matches: 3
+   Relevance Score: 45%
+Rank 3 -> internship.txt
+   Keyword Matches: 1
+   Relevance Score: 19%
+
+===== SEARCH RESULTS =====
+Query: data structures
+Rank 1 -> dsa.txt
+   Keyword Matches: 7
+   Relevance Score: 100%
+Rank 2 -> programming.txt
+   Keyword Matches: 2
+   Relevance Score: 33%
+Rank 3 -> cpp_basics.txt
+   Keyword Matches: 2
+   Relevance Score: 24%
+
+===== SEARCH RESULTS =====
+Query: "data structures" AND algorithms
+Rank 1 -> dsa.txt
+   Keyword Matches: 4
+   Relevance Score: 100%
+Rank 2 -> programming.txt
+   Keyword Matches: 2
+   Relevance Score: 61%
+
+===== SEARCH RESULTS =====
+Query: machine learning
+Rank 1 -> cpp_basics.txt
+   Keyword Matches: 1
+   Relevance Score: 100%
+  [!] Search query cannot be empty.
+
+===== SEARCH RESULTS =====
+Query: prog
+No results found for: prog
+Did you mean: program programming programs

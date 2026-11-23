@@ -1,0 +1,2 @@
+C++ programming is a powerful language. C++ programming supports OOP, templates and the STL.
+Learning C++ takes practice. Many C++ programs use file handling and data structures.

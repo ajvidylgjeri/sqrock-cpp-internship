@@ -1,0 +1,24 @@
+===== COMPARISON REPORT =====
+File 1: samples/file1.txt
+File 2: samples/file2.txt
+
+  = Line 1 / 1: Hello World
+  ~ Line 2 (File 1) vs Line 2 (File 2)
+      File 1 -> Welcome to Sqrock
+      File 2 -> Welcome to Sqrock IT Solutions
+      Diff   : Additional text -> " IT Solutions" (at column 18)
+  = Line 3 / 3: C++ Internship
+  ~ Line 4 (File 1) vs Line 4 (File 2)
+      File 1 -> Old line
+      File 2 -> New extra line
+      Diff   : Changed "Old" -> "New extra" (at column 1)
+  + Added   (File 2, line 5): Another line
+
+===== SUMMARY =====
+Total Lines in File 1: 4
+Total Lines in File 2: 5
+Matching Lines: 2
+Modified Lines: 2
+Added Lines: 1
+Removed Lines: 0
+Result: Files are different.
